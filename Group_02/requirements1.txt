@@ -1,0 +1,20 @@
+numpy
+pandas
+matplotlib
+ipywidgets
+jupyter_ui_poll
+matplotlib.pyplot
+random
+time
+json
+requests
+os
+
+Axes3D
+combinations
+BeautifulSoup
+ui_events
+
+
+display, Image, clear_output, HTML
+
